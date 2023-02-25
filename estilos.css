@@ -1,0 +1,43 @@
+.logo{
+    width: 70px;
+}
+
+.fotoindex {
+    width: 900px;
+}
+
+.titulo{
+    font-size: xx-large;
+    font-style: oblique;
+    
+}
+
+.imgcarousel{
+    height: 300px;
+    object-fit: cover;
+}
+
+.anclas{
+    font-weight: bold;
+    color: azure;
+   }
+.anclas:hover{
+    color: gold;
+    text-decoration: dashed;
+}
+
+.colorfondoanclas{
+    background-color: black;
+}
+
+.beneficios{
+    padding: 100px;
+}
+.beneficios::backdrop{
+    background-color: bisque;
+}
+
+.imgsegundocarousel{
+    height: 500px;
+    object-fit: cover;
+}
